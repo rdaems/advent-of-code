@@ -2,4 +2,4 @@ jupyter
 numpy
 scipy
 matplotlib
-advent-of-code-data
+advent-of-code-data[nb]
